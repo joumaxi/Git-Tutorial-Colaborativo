@@ -111,6 +111,17 @@ $ git push origin master
 ```
 
 Desta forma o trabalho não é perdido e pode ser retomado  depois.
+
+### Sincronizando Ramo do Projeto com o Repo
+
+Durante a construção do _projeto_, [ramificações](#criando-ramificações) são criadas e apagadas, seja para realizar correção de _bugs_ seja para lançar novas funcionalidades ao _projeto_. Normalmente esses _ramos_ permanecem apenas na pasta do _projeto_ contudo podem ser enviados para o _repo_ também. Para tanto faça:
+
+```bash
+$ git push -u origin ramo1
+```
+
+
+
 ### Ignorando Arquivos
 Pode-se tornar _invisível_ arquivos e pastas Para o controle de versão. Para fazer isso crie um arquivo chamado `.gitignore` e acrescente a ele, em cada linha, o nome dos tipos de arquivos qur deseja que o controle de versão ignore.
 Este processo poderá ser efetuado diretamente no terminal:
