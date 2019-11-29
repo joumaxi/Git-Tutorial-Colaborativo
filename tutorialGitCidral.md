@@ -486,7 +486,7 @@ $ git tag #consulta se a tag foi criada.
 ### Apagando Etiquetas
 Para apagar uma Etiqueta use:
 ```bash
-$ git flag -d v1.0  
+$ git tag -d v1.0  
 ```
 > **Nota**: Caso tenha criado uma Etiqueta e enviado para o _Repo_, será necessário realizar o mesmo comando no _Repo_ para remover a Etiqueta de lá também. 
 
