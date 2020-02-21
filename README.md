@@ -19,6 +19,8 @@ O documento produzido foi escrito em **Markdown** utilizando as seguintes plataf
 
 Acesse o tutorial Git [aqui](./tutorialGitCidral.md).
 
+Se quiser informações sobre as alterações do documento veja o CHANGELOG [aqui](./CHANGELOG.md).
+
 :hand:
 
 Joumaxi.
