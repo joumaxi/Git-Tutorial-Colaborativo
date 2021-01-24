@@ -16,6 +16,8 @@ O tutorial pode ser acessado [aqui](doc/main.md).
 
 Baixe, use e atualize!
 
+Se quiser informações sobre as alterações do documento veja o CHANGELOG [aqui](./CHANGELOG.md).
+
 :hand:
 
 Joumaxi.
