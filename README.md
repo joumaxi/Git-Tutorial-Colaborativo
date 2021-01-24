@@ -1,23 +1,20 @@
-# Outro Tutorial Git, mas colaborativo!
+# Um Tutorial Git para Projetos de Firmware
+A finalidade desse material é orientar desenvolvedores para o uso de controle de versão baseado em ferramenta **Git**, usando os comandos de terminal **sh**.
+
+## Pré-requisitos
+Os pré-requisitos para o uso desse material são:
+
+* Conhecimentos básicos sobre operação sobre linha de comando em terminal *Linux*.
+* Conhecimentos básicos de projeto de *firmware* utilizando linguagens de programação.
+* Conhecimentos básicos em linguagem *Python* para construção de *scripts*.
+
+## Justificativas
+O uso de terminal **sh** foi definido para facilitar a construção de *scripts*. Contudo, não será necessário utilizar o sistema operacional *Linux* para executar os comandos **Git**. 
+O terminal de comandos poderá ser emulado tanto em *Windows* quanto no *Mac*. Caso não se deseje emular o terminal **sh**, o próprio terminal do sistema *Windows* ou *Mac* poderá ser utilizado.
+
+O tutorial pode ser acessado [aqui](doc/main.md).
 
 Baixe, use e atualize!
-
-Nem todos os comandos são listados aqui, mas todos foram testados.
-
-Sistemas em que o _Git_ foi instalado e testado:
-- Windows XP
-- Windows 8.1
-- Linux Mint 19.2
-
-O documento produzido foi escrito em **Markdown** utilizando as seguintes plataformas e programas:
-- Android com o programa  [Markor](https://play.google.com/store/apps/details?id=net.gsantner.markor&hl=en_US).
-- Windows ou Linux usando   [Typora](https://typora.io/).
-
-> **Nota**: Para escrever em **Markdown**, você precisa apenas de um arquivo de texto e um editor genérico, algo como um _notepad.exe_ ou _vim_. Editores de Texto como o _Typora_ ou _Markor_ só facilitam o trabalho. :smiley:
-
-
-
-Acesse o tutorial Git [aqui](./tutorialGitCidral.md).
 
 :hand:
 
