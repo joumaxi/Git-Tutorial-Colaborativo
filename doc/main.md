@@ -1,6 +1,6 @@
 # Orientação do Tutorial Git
 
-O **git** é uma ferramenta destinada ao controle de versão de arquivos. Existem diversos tutoriais na internet explicando quando surgiu e como funciona os diversos comandos que ele possui. Os *links* a seguir são alguns exemplos:
+O **git** é uma ferramenta destinada ao controle de versão de arquivos. Existem muitos tutoriais na internet explicando quando surgiu e como funciona os diversos comandos que ele possui. Os *links* a seguir são alguns exemplos:
 
 * [Documentação do site oficial](https://git-scm.com/book/en/v2).
 * [Documentação da Wikipédia em Português](https://pt.wikipedia.org/wiki/Git).
@@ -25,8 +25,5 @@ Os conteúdos deste material são apresentados a seguir:
 12. [Removendo Alterações](undoCommits.md)
 13. [Ferramentas Auxiliares](otherTools.md)
 14. [Automatizando Tarefas](scriptsAndTasks.md)
-
-
-
 
 
