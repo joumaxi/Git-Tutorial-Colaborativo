@@ -7,7 +7,7 @@ O **git** é uma ferramenta destinada ao controle de versão de arquivos. Existe
 * [Tutorial Git do tutorialspoint](https://www.tutorialspoint.com/git/index.htm).
 * [Tutorial Git para iniciantes do freeCodeCamp](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/).
 
-Este material visa guiar o desenvolvedor durante a construção e atualização de arquivos de projeto. 
+Este material visa guiar o desenvolvedor durante a construção e atualização de arquivos de projeto. Não deve ser utilizado sozinho e nem é a melhor referência; mas pode orientar muitos casos.
 
 ---
 
